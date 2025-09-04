@@ -1,6 +1,16 @@
-# Getting Started with Create React App
+# Expense Tracker
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Setup Instructions
+
+Before running the application, you need to install the dependencies:
+
+```bash
+npm install
+```
+
+This will install all required packages including `react-scripts` and other dependencies listed in `package.json`.
 
 ## Available Scripts
 
